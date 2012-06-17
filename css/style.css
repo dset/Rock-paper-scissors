@@ -1,0 +1,7 @@
+.js-visible {
+	display: block;
+}
+
+.js-invisible {
+	display: none;
+}
