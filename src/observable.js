@@ -1,4 +1,3 @@
-var DSET = {};
 DSET.util = (function () {
 	function Observable() {
 		this.observers = {};
